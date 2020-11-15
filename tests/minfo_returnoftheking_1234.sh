@@ -1,0 +1,1 @@
+python3 minfo.py 'return of the king' 1234
