@@ -10,4 +10,8 @@ The test will generate your observed output in a `out` folder. The difference be
 
 If there is no output, then there were no differences.
 
-**note**: python's `print()` usually prints an extra line (`\n`), hence why there is an extra line in every expected file
+**Note**: python's `print()` usually prints an extra line (`\n`), hence why there is an extra line in every expected file
+
+## My Tests
+
+Any tests starting with `my_*` are tests created by me. So if you get an difference, one of us has probably done it wrong.
