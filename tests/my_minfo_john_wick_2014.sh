@@ -1,0 +1,1 @@
+python3 minfo.py 'John Wick' 2014

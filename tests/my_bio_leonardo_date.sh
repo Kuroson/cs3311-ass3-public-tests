@@ -1,0 +1,1 @@
+python3 bio.py 'leonardo di' 1974

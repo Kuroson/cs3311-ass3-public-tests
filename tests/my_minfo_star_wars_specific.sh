@@ -1,0 +1,1 @@
+python3 minfo.py 'Star Wars: Episode I - The Phantom Menace'
