@@ -15,3 +15,5 @@ If there is no output, then there were no differences.
 ## My Tests
 
 Any tests starting with `my_*` are tests created by me. So if you get an difference, one of us has probably done it wrong.
+
+Tests are configured for running on **CSE only**. For some reason, CSE tends to sort things differently.
